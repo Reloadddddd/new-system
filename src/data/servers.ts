@@ -39,21 +39,6 @@ export const discordServers: DiscordServer[] = [
   },
 ];
 
-export const promotedServers: DiscordServer[] = [
-  {
-    id: 'promo1',
-    name: 'Gaming Hub',
-    description: 'The ultimate gaming community for all gamers! Join us for daily events, tournaments, and amazing prizes.',
-    category: 'gaming',
-    inviteLink: 'https://discord.gg/example',
-    iconUrl: 'https://images.pexels.com/photos/2885014/pexels-photo-2885014.jpeg?auto=compress&cs=tinysrgb&w=150',
-    memberCount: 15000,
-    boostLevel: 3,
-    promoted: true,
-    promotionLevel: 'ultimate'
-  },
-];
-
 // Sort and rank servers based on member count and boost level
 export const getRankedServers = () => {
   return discordServers
