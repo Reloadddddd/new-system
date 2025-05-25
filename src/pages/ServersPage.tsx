@@ -28,8 +28,8 @@ const ServersPage: React.FC = () => {
 
   const categories = [
     { value: 'all', label: 'All Categories' },
-    { value: 'gaming', label: 'Gaming' },
-    { value: 'community', label: 'Community' },
+//    { value: 'gaming', label: 'Gaming' },
+//    { value: 'community', label: 'Community' },
     { value: 'advertising', label: 'Advertising' },
     { value: 'graphiste', label: 'graphiste' },
     { value: 'Developper', label: 'Developper' },
