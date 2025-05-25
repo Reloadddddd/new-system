@@ -17,17 +17,7 @@ const AboutPage: React.FC = () => {
       bio: 'wallah pas de bio',
       image: 'https://images-ext-1.discordapp.net/external/ggsHTiaEBo1Rr2Gu8dOfWQ8FPvtWQdh5f1w0ZNlWLxg/%3Fsize%3D128/https/cdn.discordapp.com/avatars/1113193856683475045/a_08a26816c0613843bb07ffd7ce221acd.gif',
     }
-]
-const AboutPage: React.FC = () => {
-  const founders2 = [
-
-        {
-      name: '夜M-KAI牙',
-      role: 'Fondateur',
-      bio: 'Tu es en recherche du meilleur serveur de graph: https://discord.gg/8yNhnbaGNu 🎨',
-      image: 'https://images-ext-1.discordapp.net/external/gW58U9t_doJTRwMtNIFZSHT4Q0Wa3N36N4CykqOy2hs/%3Fsize%3D128/https/cdn.discordapp.com/avatars/1187809182888497243/9a4b5936babcd51abe27bd7e48d6b05b.png?format=webp&quality=lossless',
-    }
-  ];
+];
 
   return (
     <div className="min-h-screen bg-[#0F0518] pt-24 pb-20">
