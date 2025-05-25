@@ -6,15 +6,21 @@ const AboutPage: React.FC = () => {
   const founders = [
     {
       name: 'AyviTV',
-      role: 'Founder',
-      bio: 'Le bg de la street',
+      role: 'Propriétaire',
+      bio: 'Propriétaire à plein temps !',
       image: 'https://media.discordapp.net/attachments/1372686113826934855/1375934931032604713/Pdpamoiwesh.jpg?ex=68337ec3&is=68322d43&hm=403023d7105a95a0005998beb534bce22ff758e6a5d8611059ce2fe74d6216af&=&format=webp',
     },
     {
       name: 'Wayzen',
-      role: 'Founder',
-      bio: 'Je suis normal walah pas de bio',
+      role: 'Propriétaire',
+      bio: 'wallah pas de bio',
       image: 'https://images-ext-1.discordapp.net/external/ggsHTiaEBo1Rr2Gu8dOfWQ8FPvtWQdh5f1w0ZNlWLxg/%3Fsize%3D128/https/cdn.discordapp.com/avatars/1113193856683475045/a_08a26816c0613843bb07ffd7ce221acd.gif',
+    }
+        {
+      name: '夜M-KAI牙',
+      role: 'Fondateur',
+      bio: 'Tu es en recherche du meilleur serveur de graph: https://discord.gg/8yNhnbaGNu 🎨',
+      image: 'https://images-ext-1.discordapp.net/external/gW58U9t_doJTRwMtNIFZSHT4Q0Wa3N36N4CykqOy2hs/%3Fsize%3D128/https/cdn.discordapp.com/avatars/1187809182888497243/9a4b5936babcd51abe27bd7e48d6b05b.png?format=webp&quality=lossless',
     }
   ];
 
