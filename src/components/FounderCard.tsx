@@ -22,7 +22,7 @@ const FounderCard: React.FC<FounderCardProps> = ({
   return (
     <motion.div 
       className="bg-gradient-to-br from-[#1A0F2E] to-[#2D1B4E] rounded-lg overflow-hidden shadow-lg"
-      whileHover={{ y: -5, boxShadow: '0 10px 30px -10px rgba(148, 53, 236, 0.5)' }}
+      whileHover={{ y: -5, boxShadow: '0 10px 30px -10px rgba(138, 43, 246, 0.5)' }}
       transition={{ duration: 0.3 }}
     >
       <div className="p-6">
