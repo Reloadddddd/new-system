@@ -68,4 +68,4 @@ const Founder2Card: React.FC<Founder2CardProps> = ({
   );
 };
 
-export default FounderCard;
+export default Founder2Card;
