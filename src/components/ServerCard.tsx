@@ -13,7 +13,7 @@ const categoryColors = {
   community: 'bg-blue-600',
   advertising: 'bg-emerald-600',
   graphiste: 'bg-yellow-600', 
-  Developper: 'bg-emerald-600', 
+  Developper: 'bg-green-600', 
   other: 'bg-amber-600',
 };
 
