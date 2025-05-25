@@ -52,18 +52,6 @@ export const promotedServers: DiscordServer[] = [
     promoted: true,
     promotionLevel: 'ultimate'
   },
-  {
-    id: 'promo2',
-    name: 'Anime World',
-    description: 'Your one-stop destination for all things anime! Discussion, watch parties, and fan art sharing.',
-    category: 'community',
-    inviteLink: 'https://discord.gg/example2',
-    iconUrl: 'https://images.pexels.com/photos/2882566/pexels-photo-2882566.jpeg?auto=compress&cs=tinysrgb&w=150',
-    memberCount: 8000,
-    boostLevel: 2,
-    promoted: true,
-    promotionLevel: 'premium'
-  }
 ];
 
 // Sort and rank servers based on member count and boost level
