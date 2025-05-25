@@ -14,7 +14,6 @@ const categoryColors = {
   advertising: 'bg-emerald-600',
   graphiste: 'bg-yellow-600', 
   Developper: 'bg-green-600', 
-  other: 'bg-amber-600',
 };
 
 const categoryLabels = {
@@ -23,7 +22,6 @@ const categoryLabels = {
   advertising: 'Advertising',
   graphiste: 'graphiste', 
   Developper: 'Developper', 
-  other: 'Other',
 };
 
 const ServerCard: React.FC<ServerCardProps> = ({ server }) => {
