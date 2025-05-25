@@ -1,6 +1,5 @@
 import React from 'react';
 import FounderCard from '../components/FounderCard';
-import FounderCard from '../components/Founder2Card';
 import { motion } from 'framer-motion';
 
 const AboutPage: React.FC = () => {
