@@ -39,7 +39,20 @@ export const discordServers: DiscordServer[] = [
   },
 ];
 
-export const promotedserver: promotedserver[] = [
+export const promotedServers: promotedServers[] = [
+        {
+    id: '1',
+    name: 'Le Repère des graphistes',
+    description: '💼 NOS SERVICES : Développement de bots Discord sur mesure (RP, modération, économie…), Création de serveurs clés en main (RP, boutique, communautaire), Graphismes professionnels : logos, bannières, identités visuelles, Accompagnement sur vos projets Discord',
+    category: 'Developper',
+    inviteLink: 'https://discord.gg/jXBUwUeXmx',
+    iconUrl: 'https://images-ext-1.discordapp.net/external/Mot4hkgT29bkInCppOtpp2bp2vIadMfkziuusgQeoQM/%3Fsize%3D256/https/cdn.discordapp.com/icons/1374611561154613328/1652265c810e2f79ddcc64dec2da0fb0.png?format=webp&quality=lossless',
+    memberCount: 15,
+    boostLevel: 1,
+    promoted: true,
+    promotionLevel: 'premium'
+  },
+]
 
 // Sort and rank servers based on member count and boost level
 export const getRankedServers = () => {
