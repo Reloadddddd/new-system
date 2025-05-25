@@ -12,6 +12,7 @@ const categoryColors = {
   gaming: 'bg-purple-600',
   community: 'bg-blue-600',
   advertising: 'bg-emerald-600',
+  graphiste: 'bg-yellow-600', 
   other: 'bg-amber-600',
 };
 
@@ -19,6 +20,7 @@ const categoryLabels = {
   gaming: 'Gaming',
   community: 'Community',
   advertising: 'Advertising',
+  graphiste: 'graphiste', 
   other: 'Other',
 };
 
