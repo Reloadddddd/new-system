@@ -32,7 +32,7 @@ const ServersPage: React.FC = () => {
     { value: 'community', label: 'Community' },
     { value: 'advertising', label: 'Advertising' },
     { value: 'graphiste', label: 'graphiste' },
-    { value: 'developper', label: 'developper' },
+    { value: 'Developper', label: 'Developper' },
     { value: 'other', label: 'Other' },
   ];
 
