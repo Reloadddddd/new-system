@@ -13,6 +13,7 @@ const categoryColors = {
   community: 'bg-blue-600',
   advertising: 'bg-emerald-600',
   graphiste: 'bg-yellow-600', 
+  Developper: 'bg-black-600', 
   other: 'bg-amber-600',
 };
 
@@ -21,6 +22,7 @@ const categoryLabels = {
   community: 'Community',
   advertising: 'Advertising',
   graphiste: 'graphiste', 
+  Developper: 'Developper', 
   other: 'Other',
 };
 
