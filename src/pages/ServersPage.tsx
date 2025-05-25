@@ -31,6 +31,7 @@ const ServersPage: React.FC = () => {
     { value: 'gaming', label: 'Gaming' },
     { value: 'community', label: 'Community' },
     { value: 'advertising', label: 'Advertising' },
+    { value: 'graphiste', label: 'graphiste' },
     { value: 'other', label: 'Other' },
   ];
 
