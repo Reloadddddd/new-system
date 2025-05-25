@@ -17,6 +17,9 @@ const AboutPage: React.FC = () => {
       bio: 'wallah pas de bio',
       image: 'https://images-ext-1.discordapp.net/external/ggsHTiaEBo1Rr2Gu8dOfWQ8FPvtWQdh5f1w0ZNlWLxg/%3Fsize%3D128/https/cdn.discordapp.com/avatars/1113193856683475045/a_08a26816c0613843bb07ffd7ce221acd.gif',
     }
+const AboutPage: React.FC = () => {
+  const founders2 = [
+
         {
       name: '夜M-KAI牙',
       role: 'Fondateur',
