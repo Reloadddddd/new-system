@@ -27,7 +27,7 @@ export const discordServers: DiscordServer[] = [
   },
       {
     id: '1',
-    name: 'Le Repère des graphistes',
+    name: 'SwayTech Studio',
     description: '💼 NOS SERVICES : Développement de bots Discord sur mesure (RP, modération, économie…), Création de serveurs clés en main (RP, boutique, communautaire), Graphismes professionnels : logos, bannières, identités visuelles, Accompagnement sur vos projets Discord',
     category: 'Developper',
     inviteLink: 'https://discord.gg/jXBUwUeXmx',
