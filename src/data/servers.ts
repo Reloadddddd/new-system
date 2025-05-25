@@ -39,6 +39,8 @@ export const discordServers: DiscordServer[] = [
   },
 ];
 
+export const promotedserver: promotedserver[] = [
+
 // Sort and rank servers based on member count and boost level
 export const getRankedServers = () => {
   return discordServers
